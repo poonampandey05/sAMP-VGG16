@@ -1,3 +1,8 @@
 The information about subfolders are as follows:
-1. training_dataset: which contains .fasta file of sAMP and non-sAMP sequences for training dataset, along with pos_img.tar.gz (having image files for corresponding sAMP sequences), and neg_img.tar.gz (having image files for corresponding non-sAMP sequences)
-2. Benchmark_dataset: which contains .fasta file of sAMP and non-sAMP sequences for benchmark dataset, along with pos_img.tar.gz (having image files for corresponding sAMP sequences), and neg_img.tar.gz (having image files for corresponding non-sAMP sequences)
+1. training_dataset: which contains .txt file of sAMP and non-sAMP sequences for training dataset, 
+along with pos_img.tar.gz (having image files for corresponding sAMP sequences), 
+and neg_img.tar.gz (having image files for corresponding non-sAMP sequences)
+
+2. Benchmark_dataset: which contains .txt file of sAMP and non-sAMP sequences for benchmark dataset,
+along with pos_img.tar.gz (having image files for corresponding sAMP sequences), 
+and neg_img.tar.gz (having image files for corresponding non-sAMP sequences)
